@@ -23,6 +23,6 @@ Feel free to explore the repository and utilize the resources according to your 
 If you're a student or instructor of the course and would like to contribute to this repository, you're more than welcome! Whether it's fixing typos in the lecture notes or adding new assignments, your contributions are highly appreciated. Simply fork the repository, make your changes, and create a pull request.
 
 ## Contact
-If you have any questions or suggestions regarding the course materials or this repository, feel free to contact us at [Your Contact Information].
+If you have any questions or suggestions regarding the course materials or this repository, feel free to contact us at mr.firouz.mahdi@gmail.com.
 
 Happy learning!
